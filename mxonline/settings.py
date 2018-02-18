@@ -47,6 +47,7 @@ INSTALLED_APPS = [
     'operation',
     'xadmin',
     'crispy_forms',
+    'captcha',
 ]
 
 MIDDLEWARE_CLASSES = [
